@@ -1,0 +1,9 @@
+Juan,2026-07-20,¿Alguien entiende cómo hacer el ejercicio 4?
+
+María,2026-07-20,Yo pude hacerlo usando un ciclo for.
+
+Pedro,2026-07-20,No entiendo nada de esta materia.
+
+Ana,2026-07-20,Gracias por la explicación.
+
+Luis,2026-07-20,El profesor dijo que revisemos el capítulo 3.
