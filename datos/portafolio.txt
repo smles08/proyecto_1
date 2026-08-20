@@ -1,0 +1,18 @@
+PORTAFOLIO ACADÉMICO
+
+Introducción:
+Durante este proyecto se estudió el procesamiento de lenguaje natural utilizando modelos de lenguaje grande (LLM). El objetivo fue analizar mensajes de foros académicos y utilizar inteligencia artificial para obtener información útil.
+
+Desarrollo:
+El proyecto utiliza Python y Ollama para comunicarse con el modelo Llama 3.2. Se implementó una arquitectura por capas compuesta por una capa de entrada de datos, una capa de procesamiento y una capa de interfaz de usuario.
+
+En la primera capa se cargan archivos de texto que contienen intervenciones de estudiantes. En la segunda capa se construyen prompts y se envían al modelo de lenguaje para clasificar mensajes, generar resúmenes y detectar estudiantes que podrían necesitar ayuda.
+
+Resultados:
+El sistema permite clasificar mensajes como preguntas, respuestas u otros tipos de intervención. También puede generar un resumen de los temas principales y detectar mensajes relacionados con confusión o solicitudes de ayuda.
+
+Conclusiones:
+El uso de modelos de lenguaje permite automatizar parte del análisis de textos académicos. La aplicación puede ser útil para docentes porque facilita la identificación de dudas frecuentes y el análisis general de la participación de los estudiantes.
+
+Recomendaciones:
+Se recomienda continuar ampliando el sistema con más categorías de clasificación, análisis de sentimientos y una evaluación más detallada mediante una rúbrica académica.
